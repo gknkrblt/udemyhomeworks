@@ -7,4 +7,4 @@ image_list[0].save(
             save_all=True,
             append_images=image_list[1:],
             duration=240,
-            loop=0)
+            loop=999)
